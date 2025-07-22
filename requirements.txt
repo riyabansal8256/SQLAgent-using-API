@@ -6,3 +6,4 @@ python-dotenv
 spacy
 scikit-learn
 kaleido
+groq
